@@ -1,7 +1,7 @@
-// Time Complexity :
-// Space Complexity :
-// Did this code successfully run on Leetcode :
-// Any problem you faced while coding this :
+// Time Complexity : Search O(1), Put O(1) and remove O(1)
+// Space Complexity : O(primaryStorageSize + secondaryStorageSize)
+// Did this code successfully run on Leetcode : Yes
+// Any problem you faced while coding this : Forgot to use Math.Floor to avoid decimal issue
 
 
 // Your code here along with comments explaining your approach
